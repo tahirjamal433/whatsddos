@@ -1,0 +1,23 @@
+while true
+do
+curl -d "categoryid=01&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=02&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=03&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=04&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=05&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=06&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=07&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=08&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=09&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=10&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=11&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=12&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=13&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=14&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=15&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=16&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=17&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=18&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=19&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+curl -d "categoryid=20&groupname=&grouplink=&" -X POST "incognisys.com/SachinApps/Scripts/WhatsappLinks/saveGroup.php" -H "Content-Type: application/x-www-form-urlencoded"
+done
